@@ -3,7 +3,7 @@
 An end-to-end machine learning project predicting California house prices, from raw data to a live deployed web app. Trained on 20,640 real housing records with a production-grade pipeline and XGBoost.
 
 ## 🌐 Live Demo
-[Try the live app](YOUR_STREAMLIT_LINK_HERE)
+[Try the live app](https://housepriceapppy-5bnwirjsaeebajyv3gjd7b.streamlit.app/)
 
 ## 📌 Overview
 This project goes beyond a typical training notebook — it includes proper preprocessing pipelines, model comparison, and a deployed Streamlit app where anyone can input house details and get a real-time price prediction.
